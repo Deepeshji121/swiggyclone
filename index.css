@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Basis Grotesque Pro';
+    src: url('font/BasisGrotesqueArabicPro-Black.ttf') format('woff2'), 
+         url('font/BasisGrotesqueArabicPro-Black.ttf') format('woff');
+    font-weight: normal;
+    font-style: Black;
+}
+@font-face {
+    font-family: 'Basis Grotesque Pro';
+    src: url('font/BasisGrotesqueArabicPro-Bold.ttf') format('woff2'), 
+         url('font/BasisGrotesqueArabicPro-Bold.ttf') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Basis Grotesque Pro';
+    src: url('font/BasisGrotesqueArabicPro-Regular.ttf') format('woff2'), 
+         url('font/BasisGrotesqueArabicPro-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal
+}
+@font-face {
+    font-family: 'Basis Grotesque Pro';
+    src: url('font/BasisGrotesqueArabicPro-Medium.ttf') format('woff2'), 
+         url('font/BasisGrotesqueArabicPro-Medium.ttf') format('woff');
+    font-weight: medium;
+    font-style: normal;
+}
+  
+  
